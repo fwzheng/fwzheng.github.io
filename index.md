@@ -1,10 +1,11 @@
 # Fawei Zheng
-  Email: fwzheng@gmail.com,  fwzheng@139.com
+  Email: fwzheng@gmail.com
+         fwzheng@139.com
 
 * Quantum Unfolding
-    - code introduction
+     code introduction
 * Phonon Unfolding
-    * [download compiled file](/PhononUnfolding_linux64.x)
-    * [code introduction](/PhononUnfolding.pdf)
-    * [example 1 : graphene](/graphene.tar.gz)
-    * [example 2 : diamond](/diamond.tar.gz)
+     [download compiled file](/PhononUnfolding_linux64.x)
+     [code introduction](/PhononUnfolding.pdf)
+     [example 1 : graphene](/graphene.tar.gz)
+     [example 2 : diamond](/diamond.tar.gz)
