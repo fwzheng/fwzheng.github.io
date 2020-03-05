@@ -5,7 +5,7 @@
  &emsp;  introduction
  <br/>
 ## Phonon Unfolding
- &emsp;  [download compiled file](/PhononUnfolding_linux64.x) </br>
- &emsp;  [code introduction](/PhononUnfolding.pdf) </br>
- &emsp;  [example 1 : graphene](/graphene.tar.gz) </br>
+ &emsp;  [download compiled file](/PhononUnfolding_linux64.x)  
+ &emsp;  [code introduction](/PhononUnfolding.pdf)  
+ &emsp;  [example 1 : graphene](/graphene.tar.gz)  
  &emsp;  [example 2 : diamond](/diamond.tar.gz)
