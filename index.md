@@ -1,6 +1,5 @@
-# Fawei Zheng
-##  Email: fwzheng@gmail.com
-           fwzheng@139.com
+# <center>Fawei Zheng</center>
+ <center> Email: fwzheng@gmail.com or fwzheng@139.com</center>
 
 ## Codes
  ### Quantum Unfolding
