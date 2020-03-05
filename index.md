@@ -1,8 +1,9 @@
 # Fawei Zheng
 ##  Email: fwzheng@gmail.com
-##         fwzheng@139.com
+           fwzheng@139.com
 
-## Quantum Unfolding
+## Codes
+ ### Quantum Unfolding
 ###     code introduction
 ## Phonon Unfolding
 ###     [download compiled file](/PhononUnfolding_linux64.x)
